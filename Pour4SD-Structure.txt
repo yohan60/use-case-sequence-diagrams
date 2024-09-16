@@ -1,0 +1,5 @@
+Streamer -> Serveur de streaming
+	 -> Et les utilisateurs qui rejoignent la diffusion
+	 -> le démarrage du stream
+	 -> La transmission des flux de données
+	 -> La gestion des messages du chat
